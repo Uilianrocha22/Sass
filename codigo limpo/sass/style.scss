@@ -1,0 +1,22 @@
+$primary-color: #ff4043;
+$btn-background: #0a09c2;
+
+.title-home {
+  font-size: 34px;
+  font-family: sans-serif;
+  color: blue;
+}
+
+.btn {
+  width: 95px;
+  padding: 10px 0px;
+  background-color: $btn-background;
+  color: white;
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+@import "pages/cadastro.scss";
+@import "pages/loguin.scss";

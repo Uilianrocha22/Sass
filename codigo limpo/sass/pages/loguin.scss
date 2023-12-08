@@ -1,0 +1,17 @@
+.container {
+  h1 {
+    background-color: palegreen;
+    color: white;
+  }
+
+  .btn {
+    background-color: black;
+    color: white;
+  }
+
+  p {
+    background-color: aqua;
+    color: $primary-color;
+    width: 90px;
+  }
+}

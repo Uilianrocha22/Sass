@@ -1,0 +1,36 @@
+.btn {
+  width: 125px;
+  padding: 15px 0px;
+  border-radius: 20px;
+  display: block;
+  margin-top: 10px;
+
+  &.btn-roxo {
+    background-color: darkmagenta;
+    color: white;
+
+    &:hover {
+      background-color: #252525;
+      color: darkorchid;
+    }
+  }
+
+  &.btn-amarelo {
+    background-color: yellow;
+
+    &:hover {
+      background-color: bisque;
+    }
+  }
+
+  &.btn-azul {
+    background-color: blue;
+    color: white;
+
+    &:hover {
+      background-color: white;
+      color: blue;
+      cursor: pointer;
+    }
+  }
+}

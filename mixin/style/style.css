@@ -1,0 +1,12 @@
+.texts h1 {
+  color: blue;
+  font-size: 34px;
+  font-family: arial;
+}
+.texts p {
+  color: rgb(0, 0, 139);
+  font-size: 26px;
+  font-family: helvetica;
+}
+
+/*# sourceMappingURL=style.css.map */
